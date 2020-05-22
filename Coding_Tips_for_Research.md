@@ -3,4 +3,4 @@
 
 [Implementing a Research Paper](http://codecapsule.com/2012/01/18/how-to-implement-a-paper/)  
 
-[Debuggig PyTorch Code](https://github.com/zasdfgbnm/TorchSnooper)  
+[Debugging PyTorch Code](https://github.com/zasdfgbnm/TorchSnooper)  
