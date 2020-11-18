@@ -12,3 +12,4 @@
 * Draw.io
 * NN SVG
 * Omnigraffle for MacOS
+* [PowerPoint Tutorial](https://www.youtube.com/watch?v=bH7OFGpQjlU)
