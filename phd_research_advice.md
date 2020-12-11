@@ -6,3 +6,5 @@
 [Reading a Research Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)  
 
 [How to Write a Good Research Paper](https://www.cs.ubc.ca/~poole/HowToWriteResearchPaper.html)
+
+[Research Advice by Jan Van Gemert](https://jvgemert.github.io/links.html) 
